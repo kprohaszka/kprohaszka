@@ -1,7 +1,7 @@
 ﻿### Hello there, my name is Konrad 👋
 ## I'm a currently on Full Stack Software Engineer at Saltmine.
 
-- 👨‍🎓 I’m currently working at [Saltmine][saltmine]
+- 💻 I’m currently working at [Saltmine][saltmine]
 - 👯 I’m looking to collaborate with other content creators and programmers.
 - 🥅 2025 Goals: Further extend my knowledge regarding cloud solutions and containerization.
 - ⚡ Fun fact: I love to listen to music, play games, and learn new things
